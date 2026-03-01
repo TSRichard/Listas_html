@@ -38,8 +38,8 @@ Este repositório contém meus estudos sobre os diferentes tipos de **listas em 
     <dd>- exemplo de dd</dd>
 </dl>
 
-## 📁 Estrutura do Projeto
 ```
+## 📁 Estrutura do Projeto
 aula-html/
 ├── 📄 lista.html
 ├── 📄 lista_ul.html
