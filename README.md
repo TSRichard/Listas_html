@@ -40,6 +40,7 @@ Este repositório contém meus estudos sobre os diferentes tipos de **listas em 
 
 ```
 ## 📁 Estrutura do Projeto
+```
 aula-html/
 ├── 📄 lista.html
 ├── 📄 lista_ul.html
