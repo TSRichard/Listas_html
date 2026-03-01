@@ -54,6 +54,7 @@ aula-html/
 
 ## 👨‍💻 Autor
 **Richard**
+```
 Estudante de Sistemas de Informação apaixonado por tecnologia.
 📚 Atualmente: HTML, CSS e Python
 🎯 Meta: Primeira oportunidade como desenvolvedor
