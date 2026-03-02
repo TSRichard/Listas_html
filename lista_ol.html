@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+    <head>
+
+        <title>HTML: Listas</title>
+        <meta charset="UTF-8" />
+
+    </head>
+    <body>
+        <h1>Listas Ordenadas</h1>
+        <ol>
+            <li>Maçãs</li>
+            <li>Bananas</li>
+            <li>Laranjas</li>
+        </ol> <!--lista ordenada padrão (1,2,3)-->
+        <ol type="A" start ="5"> <!--start define a posição que irá começar-->
+            <li>Maçãs</li>
+            <li>Bananas</li>
+            <li>Laranjas</li>
+        </ol> <!--lista ordenada com type A,B,C (a ou A)-->
+        <ol type="I">
+            <li value="5">Maçãs</li> <!--value define a posição que irá começar (trabalha no elemento li)-->
+            <li>Bananas</li>
+            <li>Laranjas</li>
+        </ol> <!--lista ordenada com type em romanos (I ou i)-->
+        <h2>Listas Encadeadas ou mistas</h2>
+        <ol>
+            <li>Maçãs</li>
+            <li>Bananas</li>
+            <ol type="a">
+                <li>Maçã</li>
+                <ol type="i">
+                    <li>Ítem 1</li>
+                </ol>
+                <li>Ítem 2</li>
+            </ol>
+            <li>Ítem 3</li>
+            <ul>
+                <li>Ítem 4</li>
+                <li>Ítem 5</li>
+            </ul> <!--Misturando lista não ordenada com ordenada-->
+        </ol>
+    </body>
+    
+</html>
