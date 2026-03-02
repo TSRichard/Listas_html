@@ -12,6 +12,7 @@ Este repositório contém meus estudos sobre os diferentes tipos de **listas em 
 |---------|-----------|
 | `lista.html` | Demonstra o uso de **listas de definição** (`<dl>`, `<dt>`, `<dd>`) e **títulos** (`<h1>` ao `<h6>`) |
 | `lista_ul.html` | Explora **listas não ordenadas** (`<ul>`) com diferentes tipos de marcadores e listas encadeadas |
+| `lista_ol.html` | Demonstra o uso de listas ordenadas com diferentes tipos de numeração, listas encadeadas e combinação com listas não ordenadas |
 
 ## 🎯 O que aprendi
 
@@ -27,6 +28,11 @@ Este repositório contém meus estudos sobre os diferentes tipos de **listas em 
 - ✅ Tipos de marcadores: `disc`, `circle`, `square`
 - ✅ Como criar listas encadeadas (listas dentro de listas)
 
+### Em `lista_ol.html`:
+- ✅ Criar listas numeradas com a tag `<ol>` (ordered list)
+- ✅ Adicionar itens com a tag `<li>` (list item)
+- ✅ Numeração padrão (1, 2, 3...)
+
 ## 🖥️ Exemplos do Código
 
 ### Lista de Definição (`lista.html`)
@@ -37,6 +43,11 @@ Este repositório contém meus estudos sobre os diferentes tipos de **listas em 
     <dt>Exemplo</dt>
     <dd>- exemplo de dd</dd>
 </dl>
+<ol>
+    <li>Maçãs</li>
+    <li>Bananas</li>
+    <li>Laranjas</li>
+</ol>
 
 ```
 ## 📁 Estrutura do Projeto
@@ -44,6 +55,7 @@ Este repositório contém meus estudos sobre os diferentes tipos de **listas em 
 aula-html/
 ├── 📄 lista.html
 ├── 📄 lista_ul.html
+├── 📄 lista_ol.html
 └── 📖 README.md
 ```
 
